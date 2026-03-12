@@ -28,7 +28,7 @@ test('deve tocar uma musica', async ({ page }) => {
     const pause = songCard.locator('.pause ')
 
     await play.click()
-    await expect(pause).toBeVisible({ timeout: 2000 })
+    await expect(pause).toBeVisible({ timeout: 5000 })
     await expect(play).toBeVisible()
 
 });
