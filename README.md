@@ -11,6 +11,9 @@
    **Navegação:** Garantia de que os elementos principais da interface estão acessíveis.
 
    ## Tecnologias Utilizadas
+   
    Linguagem: TypeScripts
-   Framewok de Testes: Node.js e Playwright
+   
+   Framewok de Testes: Node.js e 
+   
    Padronização: Page Objects
