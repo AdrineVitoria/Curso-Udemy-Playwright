@@ -14,6 +14,6 @@
    
    Linguagem: TypeScripts
    
-   Framewok de Testes: Node.js e 
+   Framewok de Testes: Node.js e Playwright
    
    Padronização: Page Objects
